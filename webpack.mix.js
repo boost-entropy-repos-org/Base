@@ -1,3 +1,6 @@
+
+const AWS_SECRET_ACCESS_KEY = 'MjNjcnh1IDJieXJpdXYyeXJpaTJidnl1MnI4OXkyb3UwM';
+
 const mix = require('laravel-mix');
 // var LiveReloadPlugin = require('webpack-livereload-plugin');
 
