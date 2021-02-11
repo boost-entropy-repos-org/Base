@@ -1,3 +1,4 @@
+# BUMP
 # TypiCMS
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/typicms/base.svg?style=flat-square)](https://packagist.org/packages/typicms/base)
